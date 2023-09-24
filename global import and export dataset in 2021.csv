@@ -25,7 +25,7 @@ Bangladesh,2021,53147978.24
 Bulgaria,2021,42712622.03
 Bahrain,2021,16405097.54
 "Bahamas, The",2021,1299840.74
-Bosnia and Herzegovina,2021,8872835.61
+Bosnia and Herz.,2021,8872835.61
 Saint Barthélemy,2021,3748.56
 Belarus,2021,33571732.36
 Belize,2021,371241.3
@@ -44,7 +44,7 @@ Cocos (Keeling) Islands,2021,8613.02
 Switzerland,2021,388342418.5
 Chile,2021,100664759.2
 China,2021,3383435785
-Cote d'Ivoire,2021,13201368.29
+Côte d'Ivoire,2021,13201368.29
 Cameroon,2021,5446285.72
 Dem. Rep. Congo,2021,10523734.55
 Cook Islands,2021,32985.2
@@ -57,7 +57,7 @@ Curaçao,2021,334304.73
 Christmas Island,2021,14398.98
 Cayman Islands,2021,2466768.32
 Cyprus,2021,4005555.31
-Czech Republic,2021,194826922
+Czechia,2021,194826922
 Germany,2021,1538830199
 Djibouti,2021,385980.41
 Dominica,2021,33776.53
@@ -113,7 +113,7 @@ Jordan,2021,9808091.8
 Japan,2021,850187993.8
 Kazakhstan,2021,59384037.77
 Kenya,2021,6255228.02
-Kyrgyz Republic,2021,2871922.02
+Kyrgyzstan,2021,2871922.02
 Cambodia,2021,29706982.66
 Kiribati,2021,102443.44
 St. Kitts and Nevis,2021,71163.73
@@ -136,7 +136,7 @@ Madagascar,2021,3334517.01
 Maldives,2021,261326.26
 Mexico,2021,529171620
 Marshall Islands,2021,1515999.78
-North Macedonia,2021,9610934.06
+Macedonia,2021,9610934.06
 Mali,2021,9413395.57
 Malta,2021,5556461.28
 Myanmar,2021,21028569.88
@@ -182,7 +182,7 @@ Russia,2021,497599095.7
 Rwanda,2021,769436.46
 Saudi Arabia,2021,252012136
 Senegal,2021,3400026.67
-"Serbia, FR(Serbia/Montenegro)",2021,26382054.99
+Serbia,2021,26382054.99
 Singapore,2021,297256085.2
 South Georgia and the South Sa,2021,471.92
 Saint Helena,2021,39587.56
@@ -190,14 +190,14 @@ Solomon Islands,2021,533805.39
 Sierra Leone,2021,973295.98
 El Salvador,2021,6500987.73
 San Marino,2021,229462.86
-Somaliland,2021,505627.11
+Somalila,2021,505627.11
 Special Categories,2021,85488558.63
 Saint Pierre and Miquelon,2021,9333.92
 S. Sudan,2021,567495.83
 Sao Tome and Principe,2021,28764.06
 Sudan,2021,5447466.89
 Suriname,2021,2217099.21
-Slovak Republic,2021,101236207.4
+Slovakia,2021,101236207.4
 Slovenia,2021,42934183.41
 Sweden,2021,179311040.9
 Eswatini,2021,2374871.16
@@ -245,4 +245,4 @@ Latin America & Caribbean,2021,1310305407
 Middle East & North Africa,2021,1088471257
 North America,2021,2219849283
 South Asia,2021,472383171.1
-Sub-Saharan Africa,2021,435046781.5
+W. Sahara,2021,435046781.5
